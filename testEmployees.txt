@@ -1,0 +1,11 @@
+Joseph,software engineer,150000,20210101
+Amanda,pilot,100000,20210111
+Jenny,software engineer,300000,20220510
+Surya,math professor,75000,20210703
+Otis,artist,60000,20210613
+Aarushi,cyber security director,750000,20220821
+Matt,venture capitalist,200000,20200800
+Jimmy,engineer,150000,20201104
+Shreya,bartender,40000,20180903
+Hailey,movie director,600000,20171211
+Ananya,doctor,350000,20150206
