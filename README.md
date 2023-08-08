@@ -32,7 +32,7 @@ Select the "L" command, and enter testEmployees.txt
 
 Run any commands and try different features using the CLI
 
-### 4) (Optional) Run jUnit tests
+### 6) (Optional) Run jUnit tests
 
 ```
 make runTests
